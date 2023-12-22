@@ -256,7 +256,7 @@ INSERT INTO `menu` (`id_menu`, `nama_menu`, `link`, `icon`, `main_menu`, `level`
 (10, 'Admin', 'users', 'fa fa-user', '13', 'admin'),
 (13, 'SETING', '#', 'fa fa-gear', '0', 'admin'),
 (14, 'INFO RAB', '#', 'fa fa-globe', '0', 'admin'),
-(15, 'BUA', 'identitas', 'fa fa-server', '14', 'admin'),
+(15, 'BUA', 'bua', 'fa fa-server', '14', 'admin'),
 (16, 'AHS', 'ahs', 'fa fa-server', '14', 'admin'),
 (17, 'User', 'user', 'fa fa-server', '14', 'admin'),
 (18, 'Informasi', 'informasi', 'fa fa-server', '14', 'admin'),
